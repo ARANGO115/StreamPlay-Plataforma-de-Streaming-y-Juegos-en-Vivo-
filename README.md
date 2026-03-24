@@ -1,7 +1,7 @@
 # StreamPlay-Plataforma-de-Streaming-y-Juegos-en-Vivo-
-Entregable electiva profecional (diseño de apps):
+Entregable electiva profesional (diseño de apps):
 
-Links de warframes y licidchart:
+Links de licidchart:
 
 Fase 2: Re-Arquitectura y User Flow en Lucidchart, El Reto de Simplificación:
 https://lucid.app/lucidchart/74404d8c-efc3-4929-bfcd-a7fe21c12f81/edit?viewport_loc=-691%2C-903%2C3171%2C1437%2C0_0&invitationId=inv_50ee6065-b222-4b5f-a86a-489bae467670
@@ -15,9 +15,10 @@ https://lucid.app/lucidchart/ea89ac26-397b-40df-984d-92d544938a65/edit?viewport_
 Estudiante 2 (Arquitecto de Información):
 https://lucid.app/lucidchart/62c9137f-0d8b-4d09-b4b1-f27a8eff0abd/edit?invitationId=inv_72906909-1485-4794-8fd3-e7a8569f761f
 
-
-
-
-
 Estudiante 4 (Validador de Usabilidad)
 https://lucid.app/lucidchart/8d0e83fd-e739-41cc-9c14-c36ac48fd297/edit?viewport_loc=-353%2C1047%2C4535%2C2055%2C0_0&invitationId=inv_c16c1a9f-fcb0-4cfe-bdc3-1639283a4086
+
+Links de Prototipo en figma:
+https://www.figma.com/design/Vg67YGCUWsw5wLVKFhQACb/StreamPlay?node-id=0-1&t=mLFHGkSj0pzHJgzn-1
+
+
