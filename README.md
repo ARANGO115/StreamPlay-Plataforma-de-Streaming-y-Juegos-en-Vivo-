@@ -14,3 +14,5 @@ https://lucid.app/lucidchart/ea89ac26-397b-40df-984d-92d544938a65/edit?viewport_
 
 Estudiante 2 (Arquitecto de Información):
 https://lucid.app/lucidchart/62c9137f-0d8b-4d09-b4b1-f27a8eff0abd/edit?invitationId=inv_72906909-1485-4794-8fd3-e7a8569f761f
+
+
